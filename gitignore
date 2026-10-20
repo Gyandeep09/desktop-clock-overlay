@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+clock_log.txt
+*.otf
+.vscode/

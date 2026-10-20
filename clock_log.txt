@@ -1,0 +1,4 @@
+font file: C:\DesktopClock\Anurati-Regular.otf (loaded: 1)
+day font in use: Anurati
+small font in use: Bahnschrift
+embedded in desktop: False
