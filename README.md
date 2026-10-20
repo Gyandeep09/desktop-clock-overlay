@@ -2,7 +2,7 @@
 
 A lightweight Windows desktop overlay that shows a huge day name with a tiny date and time on your wallpaper. It is written in plain Python with `tkinter` and `ctypes`, so there is nothing heavy to run and no Wallpaper Engine is needed. The window is borderless, transparent and click-through, so your mouse clicks pass straight through to the desktop.
 
-![Preview](assets/Preview.png)
+<img src="Preview.png" alt="Preview" width="400">
 
 ## Features
 
